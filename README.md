@@ -6,3 +6,7 @@ This short project of ours demonstrates an example of applying systems of differ
 <p align="center">
   <img src="dump/plot.png" alt="3D Plot" style="max-width:25%">
 </p>
+
+## Contributors
+* Ivan Cadiang
+* Rohan Solas
